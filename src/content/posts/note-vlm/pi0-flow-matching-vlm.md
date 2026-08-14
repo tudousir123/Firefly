@@ -1,6 +1,6 @@
 ---
 title: Flow Matching + VLM 架构详解
-published: 2026-08-14
+published: 2026-06-07
 description: π 系列第一弹：π0 如何用「预训练 VLM + Flow Matching 动作专家」实现跨 8 种机器人平台的通用控制
 image: ''
 tags: [机器人, VLA, Flow Matching, VLM, Physical Intelligence]

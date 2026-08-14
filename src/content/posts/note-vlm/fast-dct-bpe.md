@@ -1,6 +1,6 @@
 ---
 title: π-FAST DCT+BPE
-published: 2026-08-14
+published: 2026-06-09
 description: π 系列第二弹：FAST 如何用 DCT+BPE 把 350 个浮点数压缩成 30~60 个 token，让机器人训练快 5 倍
 image: ''
 tags: [机器人, VLA, FAST, DCT, BPE, Physical Intelligence]

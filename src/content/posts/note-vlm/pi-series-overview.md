@@ -1,6 +1,6 @@
 ---
 title: Physical Intelligence π 系列模型全解析：从 π0 到 π0.7
-published: 2026-08-15
+published: 2026-06-05
 description: 系统梳理 PI 团队 VLA 模型的技术演进：Flow Matching、FAST 分词、异构共训、知识绝缘、RL 精调到组合泛化，从 π0 到 π0.7 一次讲清
 image: ''
 tags: [具身智能, 机器人, VLA, π系列, Physical Intelligence]
