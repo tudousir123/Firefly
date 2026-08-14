@@ -1,5 +1,5 @@
 ---
-title: 【π系列 EP01】π0：让一个模型控制所有机器人？Flow Matching + VLM 架构详解
+title: Flow Matching + VLM 架构详解
 published: 2026-08-14
 description: π 系列第一弹：π0 如何用「预训练 VLM + Flow Matching 动作专家」实现跨 8 种机器人平台的通用控制
 image: ''

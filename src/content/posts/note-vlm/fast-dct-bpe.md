@@ -1,5 +1,5 @@
 ---
-title: 【π系列 EP02】动作也能"MP3 压缩"？FAST 用 DCT+BPE 让机器人训练快 5 倍
+title: π-FAST DCT+BPE
 published: 2026-08-14
 description: π 系列第二弹：FAST 如何用 DCT+BPE 把 350 个浮点数压缩成 30~60 个 token，让机器人训练快 5 倍
 image: ''
