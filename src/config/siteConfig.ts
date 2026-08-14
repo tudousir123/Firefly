@@ -74,12 +74,13 @@ export const siteConfig: SiteConfig = {
 		// image 和 url 类型可额外设置 valueDark，用于暗色模式下显示另一张图片，不设置则亮暗色共用 value
 		// 例如: { type: "image", value: "assets/images/logo.png", valueDark: "assets/images/logo-dark.png", alt: "Logo" }
 		// 使用 Astro 图标库时不需要设置 valueDark，图标会自动跟随主题亮暗色切换
-		logo: {
-			type: "image",
-			value: "assets/images/logo/firefly-light.png",
-			valueDark: "assets/images/logo/firefly-dark.png",
-			alt: "🍀",
-		},
+		// 如需显示Logo，取消下面注释并按需修改：
+		// logo: {
+		// 	type: "image",
+		// 	value: "assets/images/logo/logo.png",
+		// 	valueDark: "assets/images/logo/logo-dark.png",
+		// 	alt: "Logo",
+		// },
 		// 导航栏标题
 		title: "溯川的个人博客",
 		// 全宽导航栏，导航栏是否占满屏幕宽度
